@@ -1,3 +1,3 @@
 deployment of 
-java applications
+touchPay
 web application
